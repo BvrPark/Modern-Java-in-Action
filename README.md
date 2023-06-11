@@ -3,4 +3,4 @@
 
 
  - Modern Java in Action 스터디에서 학습한 것들을 정리하는 곳
- - [Modern Java Study](https://github.com/bunsung92/Modern-Java-in-Action-Study)에서 스터디를 진행하고 있습니다.
+ - [Modern Java Study](https://github.com/Study-2-Modern-Java-In-Action)에서 스터디를 진행하고 있습니다.
